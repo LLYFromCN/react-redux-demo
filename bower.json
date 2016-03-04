@@ -1,0 +1,22 @@
+{
+  "name": "react-redux-demo",
+  "description": "a react and redux demo",
+  "main": "index.js",
+  "authors": [
+    "liulieyi"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
